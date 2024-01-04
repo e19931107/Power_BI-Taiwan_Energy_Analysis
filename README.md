@@ -10,6 +10,13 @@
 
 
 ## Raw DATA ETL
+![image](https://github.com/e19931107/Power_BI-Taiwan_Energy_Analysis/assets/50692450/7f75585b-bb56-44c5-b92e-f6f00a12b6e9)
+
+![image](https://github.com/e19931107/Power_BI-Taiwan_Energy_Analysis/assets/50692450/76e34bcc-7e88-42da-b227-680c430bf677)
+
+
+
+
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/390d538d-08e4-4348-bbcc-4b3524574a2e)
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/9678c9d0-379f-468a-b1ea-9728a83caa92)
