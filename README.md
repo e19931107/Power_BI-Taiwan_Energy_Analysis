@@ -1,6 +1,10 @@
 # Power_BI_ Taiwan_Energy_Analysis
 
- ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/390d538d-08e4-4348-bbcc-4b3524574a2e)
+![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/40907c66-d375-47e6-998f-a87e23d9f7d9)
+
+![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/96449968-e8be-42cd-b5e2-8946fdeb840d)
+
+![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/390d538d-08e4-4348-bbcc-4b3524574a2e)
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/9678c9d0-379f-468a-b1ea-9728a83caa92)
 
@@ -18,6 +22,3 @@
 
 
 
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/40907c66-d375-47e6-998f-a87e23d9f7d9)
-
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/96449968-e8be-42cd-b5e2-8946fdeb840d)
