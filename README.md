@@ -8,9 +8,9 @@
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/96449968-e8be-42cd-b5e2-8946fdeb840d)
 
 ## Motivation
-1. Energy shortage is the issue that every country need to face, I would like to use this chance to analysis the weight of energy from different source; for example, solar panel, water pump...etc. 
-2. Taiwan rely on the crude oil and gas import from other countries to generate power, so we should care about the energy comsuption.
-3. During the past year, due to overloading of power generator in summer, outbreak sometimes happened. Thus, we should think about how can we transfer our energy comsumption to renewable source.
+1. Addressing the global challenge of energy shortages requires a comprehensive analysis of various energy sources such as solar panels and water pumps. By examining the weight and efficiency of each source, countries can make informed decisions to enhance their energy sustainability.
+2. Taiwan heavily depends on importing crude oil and gas to meet its power needs, emphasizing the urgency of managing energy consumption. Evaluating and diversifying energy sources becomes crucial for the country's energy security and independence.
+3. Recent incidents of power outages during overloaded generators in the summer highlight the need for a shift towards renewable energy. Exploring strategies to transition from conventional to sustainable sources will not only mitigate power-related crises but also contribute to a more resilient and eco-friendly energy infrastructure.
 
 ## Raw DATA ETL
 ![image](https://github.com/e19931107/Power_BI-Taiwan_Energy_Analysis/assets/50692450/7f75585b-bb56-44c5-b92e-f6f00a12b6e9)
