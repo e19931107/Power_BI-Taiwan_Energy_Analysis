@@ -26,13 +26,23 @@ Step2: Define datetime format, transfer number into value format
 
 ![image](https://github.com/e19931107/Power_BI-Taiwan_Energy_Analysis/assets/50692450/76e34bcc-7e88-42da-b227-680c430bf677)
 
+Step3: Make key to combine two datasets.
+
+Because each of datasets they don't have key, they cannot combine(join).
+
+Hoever, I found there are three columns that are common in both datasets and can help me combine.
+
+Therefore, I used 'Type(En)', 'End of Month', '發電量總表sheet' these three columns to combine into key.
+
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/fa4ce488-2acd-4369-95a4-1c0281f469a3)
 
-Step3: There are two datasets, make connection between these two datasets.
+Step4: After ETL data in power pivot, I make the connection between these two table in Power BI.
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/390d538d-08e4-4348-bbcc-4b3524574a2e)
 
-Step4: Translate the file from Chinese into English, split date into year, quarter, mon
+Step5: Translate the file from Chinese into English, split date into year, quarter, month.
+
+Therefore, I create a new table: 發電類別
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/9678c9d0-379f-468a-b1ea-9728a83caa92)
 
