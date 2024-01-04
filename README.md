@@ -6,6 +6,10 @@
 ### Second page:
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/96449968-e8be-42cd-b5e2-8946fdeb840d)
 
+## Motivation
+
+
+## Raw DATA ETL
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/390d538d-08e4-4348-bbcc-4b3524574a2e)
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/9678c9d0-379f-468a-b1ea-9728a83caa92)
