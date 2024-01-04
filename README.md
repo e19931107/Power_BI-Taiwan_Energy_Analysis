@@ -7,7 +7,6 @@
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/fa4ce488-2acd-4369-95a4-1c0281f469a3)
 
 
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/53accbd0-1d83-4923-ae6a-65a3c93ac772)
 
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/3c345b9f-33ea-4fc4-97fb-e5eeb56fd1ff)
