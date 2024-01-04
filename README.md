@@ -1,15 +1,21 @@
 # Power_BI_ Taiwan_Energy_Analysis
-## Final result:
-### First page:
+
+## Content
+### Final result
+### Motivation
+### Raw DATA ETL
+
+### Final result:
+#### First page:
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/40907c66-d375-47e6-998f-a87e23d9f7d9)
 
-### Second page:
+#### Second page:
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/96449968-e8be-42cd-b5e2-8946fdeb840d)
 
-## Motivation
+### Motivation
 
 
-## Raw DATA ETL
+### Raw DATA ETL
 ![image](https://github.com/e19931107/Power_BI-Taiwan_Energy_Analysis/assets/50692450/7f75585b-bb56-44c5-b92e-f6f00a12b6e9)
 
 ![image](https://github.com/e19931107/Power_BI-Taiwan_Energy_Analysis/assets/50692450/76e34bcc-7e88-42da-b227-680c430bf677)
