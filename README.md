@@ -56,4 +56,13 @@ Therefore, I create a new table: 發電類別
 
 ![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/fed5f596-71e2-4e31-b8ac-7e69cc27c8ca)
 
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/3c19f804-5251-4aa7-b16f-426170f33d3a)
+
+
+Page 1 Title = SELECTEDVALUE('總表'[Year],"2016-2023")&
+" Taiwan Electricity situation "&
+"("&
+SELECTEDVALUE('總表'[Type(En)],"All power")
+&")"&" ("&
+SELECTEDVALUE('總表'[Sheet],"All methods")&")"
+
+
