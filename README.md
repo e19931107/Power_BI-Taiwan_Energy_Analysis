@@ -48,15 +48,13 @@ Therefore, I create a new table: 發電類別
 
 ## DAX
 
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/3c345b9f-33ea-4fc4-97fb-e5eeb56fd1ff)
+%發電量 = DIVIDE(SUM('總表'[發電量_度]),CALCULATE(SUM('總表'[發電量_度]),ALLSELECTED()))
+%裝置容量 = DIVIDE(SUM('總表'[裝置容量_百萬瓦]),CALCULATE(SUM('總表'[裝置容量_百萬瓦]),ALLSELECTED()))
 
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/035418ff-2f8b-4797-a059-0e0e4cd6f2fa)
+Data Range = "Data Range: " &UNICHAR(10)& FORMAT('總表'[StartDate],"yyyy mmm") & " to " & FORMAT('總表'[EndDate],"yyyy mmm")
 
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/93b0b297-0e85-4fa1-a2c7-99b8bac76c3c)
-
-![image](https://github.com/e19931107/Power_BI_-Taiwan_Energy_Analysis/assets/50692450/fed5f596-71e2-4e31-b8ac-7e69cc27c8ca)
-
-
+EndDate = CALCULATE(MAX('總表'[Date]),ALL())
+StartDate = CALCULATE(MIN('總表'[Date]),ALL())
 
 Page 1 Title = SELECTEDVALUE('總表'[Year],"2016-2023")&
 " Taiwan Electricity situation "&
