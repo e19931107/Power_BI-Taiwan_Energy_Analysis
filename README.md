@@ -49,11 +49,13 @@ Therefore, I create a new table: 發電類別
 ## DAX
 
 %發電量 = DIVIDE(SUM('總表'[發電量_度]),CALCULATE(SUM('總表'[發電量_度]),ALLSELECTED()))
+
 %裝置容量 = DIVIDE(SUM('總表'[裝置容量_百萬瓦]),CALCULATE(SUM('總表'[裝置容量_百萬瓦]),ALLSELECTED()))
 
 Data Range = "Data Range: " &UNICHAR(10)& FORMAT('總表'[StartDate],"yyyy mmm") & " to " & FORMAT('總表'[EndDate],"yyyy mmm")
 
 EndDate = CALCULATE(MAX('總表'[Date]),ALL())
+
 StartDate = CALCULATE(MIN('總表'[Date]),ALL())
 
 Page 1 Title = SELECTEDVALUE('總表'[Year],"2016-2023")&
